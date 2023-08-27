@@ -20,7 +20,7 @@ The provided Python code performs the following actions:
 
 - The checksum is appended to the end of the extended private key.
 
-- The extended private key with the checksum is base58 encoded to obtain the WIF key.
+- The extended private key with the checksum is `base58` encoded to obtain the WIF key.
 
 - The WIF key is returned by the function.
 
