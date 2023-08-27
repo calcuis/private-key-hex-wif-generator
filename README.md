@@ -1,4 +1,4 @@
-## private-key-hex-wif-generator
+## Keygen (private-key-hex-wif-generator)
 
 The provided Python code performs the following actions:
 
