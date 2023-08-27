@@ -1,8 +1,8 @@
-## Keygen (private-key-hex-wif-generator)
+## keygen (private-key-hex-wif-generator)
 
 The provided Python code performs the following actions:
 
-- It imports the secrets module to generate secure random values.
+- It imports the `secrets` module to generate secure random values.
 
 - The function `generate_private_key()` is defined to generate a random 256-bit private key (32 bytes) using the `secrets` module.
 
