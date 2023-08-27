@@ -14,7 +14,7 @@ The provided Python code performs the following actions:
 
 - The function adds a prefix byte '80' to the hexadecimal private key, indicating a mainnet private key in the crypto context.
 
-- The extended private key is double-hashed using the SHA-256 hash function.
+- The extended private key is double-hashed using the `SHA-256` hash function.
 
 - The first 4 bytes of the second hash are taken as a checksum.
 
